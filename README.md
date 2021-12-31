@@ -1,2 +1,2 @@
 # Embedded Projects
-Consists of all projects related to Embeddes Systems Design
+Consists of all projects related to Embedded Systems Design
